@@ -1,0 +1,67 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="qpCjwH+?UIAnI^#kqD5M">índice</variable></variables><block type="pxt-on-start" id="0Pw2OW)0%Kg[k:nT|nO]" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="~}6!Ot!brT3z9z9LF;Ei"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=":+Jy40yBQHe3Vdijs~B9"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="UZu5[-oW_.9@~5r6h.AS"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="GWnl,j3{,~86#X1[zaH|"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="If]VklDss;VKs{9tSpqf"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="jv$V,ESA(puFj$.7[]%e"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="D*9@%}OB262z6ECw.{yG"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="qNc.Q(BrC,qq/AFt^8|T"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="@$G$t6qSNNNw(N@NFXJI"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="DuZC(rA*L2DIP2.[@lqa"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="]-NU:$ghmXpIaLH4{^d/"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="48s#?_1pg|HUFQ~3z%H|" x="286" y="22"></block></xml>
